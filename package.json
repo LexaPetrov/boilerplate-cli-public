@@ -2,7 +2,7 @@
   "name": "@boilerplate/cli",
   "version": "1.0.0",
   "bin": {
-    "mycli": "./bin/mycli.js"
+    "mycli": "bin/mycli.js"
   },
   "type": "module",
   "scripts": {
